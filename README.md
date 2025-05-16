@@ -1,1 +1,2 @@
-# TendenciasMusicales - Lautaro Aldax - Evelyn Cuellar
+# TendenciasMusicales
+# Participantes: Lautaro Aldax - Evelyn Cuellar

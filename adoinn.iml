@@ -3,12 +3,16 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/Test" isTestSource="true" />
+=======
+>>>>>>> 193a885073524d219c8b9b4d84b1d3d2684e16fa
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+<<<<<<< HEAD
     <orderEntry type="module-library" scope="TEST">
       <library name="JUnit5.8.1">
         <CLASSES>
@@ -25,5 +29,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+=======
+>>>>>>> 193a885073524d219c8b9b4d84b1d3d2684e16fa
   </component>
 </module>
